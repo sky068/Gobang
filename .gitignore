@@ -1,0 +1,9 @@
+library/
+temp/
+local/
+build/*
+!build/jsb-default/
+build/jsb-default/*
+!build/jsb-default/frameworks/
+build/jsb-default/frameworks/*
+!build/jsb-default/frameworks/runtime-src
