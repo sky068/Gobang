@@ -66,10 +66,10 @@
         "__id__": 6
       },
       {
-        "__id__": 10
+        "__id__": 32
       },
       {
-        "__id__": 32
+        "__id__": 10
       },
       {
         "__id__": 36
@@ -356,7 +356,10 @@
     "audioManager": {
       "__id__": 33
     },
-    "steps": 0
+    "steps": 0,
+    "time": 0,
+    "gameOver": false,
+    "stepOrderIndex": []
   },
   {
     "__type__": "cc.Sprite",
@@ -814,12 +817,8 @@
     "pressedSprite": {
       "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
     },
-    "_N$hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
-    },
-    "hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
-    },
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
     "_N$disabledSprite": {
       "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
     },
@@ -1079,12 +1078,8 @@
     "pressedSprite": {
       "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
     },
-    "_N$hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
-    },
-    "hoverSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
-    },
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
     "_N$disabledSprite": {
       "__uuid__": "29158224-f8dd-4661-a796-1ffab537140e"
     },
