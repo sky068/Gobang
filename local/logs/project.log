@@ -1,0 +1,1252 @@
+2018-03-26T04:27:42.949Z - normal: Load ~/.CocosCreator/settings.json
+2018-03-26T04:27:42.952Z - normal: checking language setting...
+2018-03-26T04:27:42.952Z - normal: Language: zh
+2018-03-26T04:27:43.725Z - success: protocol editor-framework registered
+2018-03-26T04:27:43.725Z - success: protocol app registered
+2018-03-26T04:27:43.725Z - success: protocol theme registered
+2018-03-26T04:27:43.725Z - success: protocol packages registered
+2018-03-26T04:27:43.725Z - success: protocol unpack registerred
+2018-03-26T04:27:43.725Z - success: protocol disable-commonjs registerred
+2018-03-26T04:27:43.829Z - normal: connected!
+2018-03-26T04:27:43.830Z - normal: Check project /Work/cccProj/Wuziqi
+2018-03-26T04:27:43.832Z - normal: Initializing Cocos2d
+2018-03-26T04:27:43.985Z - normal: Initializing Asset Database
+2018-03-26T04:27:44.015Z - success: protocol uuid registerred
+2018-03-26T04:27:44.015Z - success: protocol db registerred
+2018-03-26T04:27:44.016Z - success: protocol thumbnail registerred
+2018-03-26T04:27:44.016Z - normal: Loading editor/builtin packages
+2018-03-26T04:27:44.031Z - success: anysdk loaded
+2018-03-26T04:27:44.112Z - success: assets loaded
+2018-03-26T04:27:44.117Z - success: builder loaded
+2018-03-26T04:27:44.118Z - success: cocos-analytics loaded
+2018-03-26T04:27:44.122Z - success: console loaded
+2018-03-26T04:27:44.125Z - success: hierarchy loaded
+2018-03-26T04:27:44.129Z - success: inspector loaded
+2018-03-26T04:27:44.130Z - success: keystore loaded
+2018-03-26T04:27:44.133Z - success: node-library loaded
+2018-03-26T04:27:44.135Z - success: package-asset loaded
+2018-03-26T04:27:44.137Z - success: preferences loaded
+2018-03-26T04:27:44.140Z - success: project-exporter loaded
+2018-03-26T04:27:44.154Z - success: project-importer loaded
+2018-03-26T04:27:44.161Z - success: project-settings loaded
+2018-03-26T04:27:44.165Z - success: ui-kit loaded
+2018-03-26T04:27:44.169Z - success: ui-grid loaded
+2018-03-26T04:27:44.172Z - success: scene loaded
+2018-03-26T04:27:44.173Z - success: sprite-editor loaded
+2018-03-26T04:27:44.180Z - success: store loaded
+2018-03-26T04:27:44.185Z - success: timeline loaded
+2018-03-26T04:27:44.185Z - normal: Loading builtin packages
+2018-03-26T04:27:44.188Z - success: asset-db-debugger loaded
+2018-03-26T04:27:44.189Z - success: color-picker loaded
+2018-03-26T04:27:44.193Z - success: package-manager loaded
+2018-03-26T04:27:44.197Z - success: sdkbox loaded
+2018-03-26T04:27:44.200Z - success: tester loaded
+2018-03-26T04:27:44.203Z - success: ui-kit-preview-extra loaded
+2018-03-26T04:27:44.207Z - success: ui-kit-preview loaded
+2018-03-26T04:27:44.209Z - success: ui-tree loaded
+2018-03-26T04:27:44.892Z - normal: Initializing project /Work/cccProj/Wuziqi
+2018-03-26T04:27:44.897Z - normal: Loading packages
+2018-03-26T04:27:44.901Z - normal: Watching packages
+2018-03-26T04:27:44.910Z - normal: Run Application
+2018-03-26T04:27:45.318Z - success: preview server running at http://localhost:7457
+2018-03-26T04:27:48.652Z - normal: 1.8.2
+2018-03-26T04:27:49.025Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-03-26T05:47:18.833Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2018-03-26T05:47:18.886Z - normal: Simulator: FRAME SCALE = 1.00
+2018-03-26T05:47:18.898Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-03-26T05:47:18.984Z - normal: Simulator: 
+2018-03-26T05:47:18.985Z - normal: Simulator: {
+2018-03-26T05:47:18.985Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-03-26T05:47:18.985Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-03-26T05:47:18.985Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-03-26T05:47:18.985Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2018-03-26T05:47:18.986Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-03-26T05:47:18.986Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2018-03-26T05:47:18.986Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-03-26T05:47:18.986Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-03-26T05:47:18.986Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-03-26T05:47:18.986Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-03-26T05:47:18.986Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-03-26T05:47:18.987Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-03-26T05:47:18.987Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-03-26T05:47:18.987Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-03-26T05:47:18.987Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-03-26T05:47:18.987Z - normal: Simulator: 	gl.version: 2.1 ATI-1.60.26
+2018-03-26T05:47:18.988Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-03-26T05:47:18.988Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-03-26T05:47:18.988Z - normal: Simulator: }
+2018-03-26T05:47:18.988Z - normal: Simulator: 
+2018-03-26T05:47:18.988Z - normal: Simulator: 
+2018-03-26T05:47:18.988Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-03-26T05:47:19.025Z - normal: Simulator: Project Config:
+2018-03-26T05:47:19.025Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-03-26T05:47:19.025Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-03-26T05:47:19.025Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-03-26T05:47:19.025Z - normal: Simulator:     frame size: 1280 x 720
+2018-03-26T05:47:19.026Z - normal: Simulator:     frame scale: 1.00
+2018-03-26T05:47:19.026Z - normal: Simulator:     show console: NO
+2018-03-26T05:47:19.026Z - normal: Simulator:     write debug log: NO ()
+2018-03-26T05:47:19.026Z - normal: Simulator:     listen: 
+2018-03-26T05:47:19.026Z - normal: Simulator:     debugger: none
+2018-03-26T05:47:19.026Z - normal: Simulator:     add searching path:
+2018-03-26T05:47:19.036Z - normal: Simulator: ------------------------------------------------
+2018-03-26T05:47:19.037Z - normal: Simulator: LOAD Js FILE: main.js
+2018-03-26T05:47:19.037Z - normal: Simulator: ------------------------------------------------
+2018-03-26T05:47:19.053Z - normal: Simulator: Initializing JavaScriptCore 
+2018-03-26T05:47:19.247Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-03-26T05:47:19.636Z - normal: Simulator: iShow!
+2018-03-26T05:47:19.915Z - normal: Simulator: JS: InitScene: 3.8430000000000746ms
+2018-03-26T05:47:19.915Z - normal: Simulator: JS: AutoRelease: 0.08500000000003638ms
+2018-03-26T05:47:19.915Z - normal: Simulator: JS: Destroy: 0.04200000000003001ms
+2018-03-26T05:47:19.915Z - normal: Simulator: JS: AttachPersist: 0.0019999999999527063ms
+2018-03-26T05:47:19.919Z - normal: Simulator: JS: ScaleX != ScaleY. Don't know which one to return
+2018-03-26T05:47:19.921Z - normal: Simulator: JS: Activate: 6.351999999999975ms
+2018-03-26T05:47:21.753Z - normal: Simulator: JS: LoadScene 15f89968-16be-4c4b-aacc-32982cf93805: 89.38000000000011ms
+2018-03-26T05:47:21.754Z - normal: Simulator: JS: InitScene: 1.3579999999997199ms
+2018-03-26T05:47:21.755Z - normal: Simulator: JS: AutoRelease: 0.013000000000374712ms
+2018-03-26T05:47:21.758Z - normal: Simulator: JS: Destroy: 3.106999999999971ms
+2018-03-26T05:47:21.758Z - normal: Simulator: JS: AttachPersist: 0.0019999999999527063ms
+2018-03-26T05:47:21.974Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-03-26T05:47:21.974Z - normal: Simulator: JS: Activate: 216.39200000000028ms
+2018-03-26T05:47:25.949Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 12480, total read frames: 12480, adjust frames: 0, remainingFrames: 0
+2018-03-26T05:47:25.950Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-03-26T05:47:25.950Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 783
+2018-03-26T05:47:25.957Z - normal: Simulator: GC end ..., (Native -> JS map) count: 777
+2018-03-26T05:47:25.957Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 777
+2018-03-26T05:47:25.967Z - normal: Simulator: GC end ..., (Native -> JS map) count: 777
+2018-03-26T05:47:25.968Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 777
+2018-03-26T05:47:25.970Z - normal: Simulator: GC end ..., (Native -> JS map) count: 777
+2018-03-26T05:47:25.987Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-03-26T05:47:25.988Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-03-26T05:47:25.988Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-03-26T05:47:25.988Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-03-26T05:55:59.429Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2018-03-26T05:55:59.474Z - normal: Simulator: FRAME SCALE = 1.00
+2018-03-26T05:55:59.491Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-03-26T05:55:59.559Z - normal: Simulator: 
+2018-03-26T05:55:59.560Z - normal: Simulator: {
+2018-03-26T05:55:59.570Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-03-26T05:55:59.570Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-03-26T05:55:59.570Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-03-26T05:55:59.571Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2018-03-26T05:55:59.571Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-03-26T05:55:59.571Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2018-03-26T05:55:59.571Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-03-26T05:55:59.571Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-03-26T05:55:59.571Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-03-26T05:55:59.571Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-03-26T05:55:59.572Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-03-26T05:55:59.572Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-03-26T05:55:59.572Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-03-26T05:55:59.572Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-03-26T05:55:59.572Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-03-26T05:55:59.572Z - normal: Simulator: 	gl.version: 2.1 ATI-1.60.26
+2018-03-26T05:55:59.573Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-03-26T05:55:59.573Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-03-26T05:55:59.573Z - normal: Simulator: }
+2018-03-26T05:55:59.573Z - normal: Simulator: 
+2018-03-26T05:55:59.573Z - normal: Simulator: 
+2018-03-26T05:55:59.573Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-03-26T05:55:59.608Z - normal: Simulator: Project Config:
+2018-03-26T05:55:59.609Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-03-26T05:55:59.609Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-03-26T05:55:59.609Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-03-26T05:55:59.609Z - normal: Simulator:     frame size: 1280 x 720
+2018-03-26T05:55:59.609Z - normal: Simulator:     frame scale: 1.00
+2018-03-26T05:55:59.609Z - normal: Simulator:     show console: NO
+2018-03-26T05:55:59.610Z - normal: Simulator:     write debug log: NO ()
+2018-03-26T05:55:59.610Z - normal: Simulator:     listen: 
+2018-03-26T05:55:59.610Z - normal: Simulator:     debugger: none
+2018-03-26T05:55:59.610Z - normal: Simulator:     add searching path:
+2018-03-26T05:55:59.640Z - normal: Simulator: ------------------------------------------------
+2018-03-26T05:55:59.641Z - normal: Simulator: LOAD Js FILE: main.js
+2018-03-26T05:55:59.641Z - normal: Simulator: ------------------------------------------------
+2018-03-26T05:55:59.642Z - normal: Simulator: Initializing JavaScriptCore 
+2018-03-26T05:55:59.858Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-03-26T05:56:00.238Z - normal: Simulator: iShow!
+2018-03-26T05:56:00.521Z - normal: Simulator: JS: InitScene: 3.4699999999999136ms
+2018-03-26T05:56:00.522Z - normal: Simulator: JS: AutoRelease: 0.14400000000000546ms
+2018-03-26T05:56:00.522Z - normal: Simulator: JS: Destroy: 0.059000000000082764ms
+2018-03-26T05:56:00.522Z - normal: Simulator: JS: AttachPersist: 0.002000000000066393ms
+2018-03-26T05:56:00.639Z - normal: Simulator: ERROR: TypeError: null is not an object (evaluating 'this.newChessTip.node'), location: assets/scripts/Game.js:75:25
+2018-03-26T05:56:00.639Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.639Z - normal: Simulator: onLoad@assets/scripts/Game.js:75:25
+2018-03-26T05:56:00.640Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.640Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.640Z - normal: Simulator: activateNode@src/jsb_polyfill.js:13682:31
+2018-03-26T05:56:00.640Z - normal: Simulator: _activate@src/jsb_polyfill.js:3259:50
+2018-03-26T05:56:00.640Z - normal: Simulator: runSceneImmediate@src/jsb_polyfill.js:25422:28
+2018-03-26T05:56:00.640Z - normal: Simulator: main.js:53:54
+2018-03-26T05:56:00.641Z - normal: Simulator: src/jsb_polyfill.js:16043:33
+2018-03-26T05:56:00.641Z - normal: Simulator: src/jsb_polyfill.js:11958:38
+2018-03-26T05:56:00.641Z - normal: Simulator: src/jsb_polyfill.js:19559:21
+2018-03-26T05:56:00.641Z - normal: Simulator: onceWrapper@src/jsb_polyfill.js:11015:26
+2018-03-26T05:56:00.641Z - normal: Simulator: invoke@src/jsb_polyfill.js:10860:28
+2018-03-26T05:56:00.641Z - normal: Simulator: emit@src/jsb_polyfill.js:11042:117
+2018-03-26T05:56:00.642Z - normal: Simulator: callback@src/jsb_polyfill.js:25556:27
+2018-03-26T05:56:00.646Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.646Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.647Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.647Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.648Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.648Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.648Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.663Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.663Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.664Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.664Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.664Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.664Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.664Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.680Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.680Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.681Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.681Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.681Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.681Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.681Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.695Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.696Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.696Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.696Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.696Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.696Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.696Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.711Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.711Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.712Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.714Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.714Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.714Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.715Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.734Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.734Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.734Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.734Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.734Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.734Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.735Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.745Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.745Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.746Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.746Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.746Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.746Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.746Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.760Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.760Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.760Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.761Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.761Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.761Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.761Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.778Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.778Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.780Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.780Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.781Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.781Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.781Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.797Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.797Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.797Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.797Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.798Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.799Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.799Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.813Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.813Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.814Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.814Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.814Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.814Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.814Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.830Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.830Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.830Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.830Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.830Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.830Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.831Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.850Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.850Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.850Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.850Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.850Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.851Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.851Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.860Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.860Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.861Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.861Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.861Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.861Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.861Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.879Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.880Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.880Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.880Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.880Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.880Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.881Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.897Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.897Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.897Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.897Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.897Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.898Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.898Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.912Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.913Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.913Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.913Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.913Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.913Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.913Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.930Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.930Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.930Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.931Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.931Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.931Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.931Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.945Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.945Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.945Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.945Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.945Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.949Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.949Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.968Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.968Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.968Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.968Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.968Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.969Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.969Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.976Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.977Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.977Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.977Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.977Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.977Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.978Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:00.994Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.994Z - normal: Simulator: STACK:
+2018-03-26T05:56:00.997Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:00.997Z - normal: Simulator: anonymous
+2018-03-26T05:56:00.997Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:00.997Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:00.997Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.010Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.011Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.011Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.011Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.011Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.011Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.011Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.029Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.030Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.030Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.030Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.030Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.030Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.030Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.047Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.047Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.047Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.047Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.047Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.047Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.047Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.063Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.063Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.063Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.063Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.064Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.064Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.064Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.085Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.086Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.086Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.086Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.086Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.086Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.086Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.094Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.094Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.094Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.094Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.094Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.095Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.095Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.110Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.111Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.111Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.111Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.111Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.111Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.111Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.128Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.128Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.129Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.129Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.129Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.129Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.129Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.147Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.148Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.148Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.148Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.148Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.148Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.148Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.161Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.161Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.162Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.162Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.162Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.162Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.162Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.178Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.179Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.179Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.179Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.179Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.179Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.179Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.201Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.201Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.202Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.202Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.202Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.202Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.202Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.212Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.212Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.212Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.212Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.212Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.213Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.213Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.229Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.230Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.230Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.230Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.230Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.230Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.231Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.247Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.248Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.248Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.248Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.248Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.248Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.249Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.262Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.262Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.262Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.262Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.262Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.262Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.262Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.281Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.281Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.281Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.281Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.281Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.282Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.282Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.298Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.298Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.298Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.298Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.298Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.299Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.299Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.318Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.319Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.319Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.319Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.319Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.319Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.319Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.328Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.328Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.328Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.329Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.329Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.329Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.329Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.345Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.345Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.345Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.345Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.345Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.346Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.346Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.361Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.362Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.364Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.364Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.364Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.364Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.364Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.378Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.379Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.379Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.379Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.381Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.382Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.382Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.398Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.398Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.398Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.399Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.399Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.399Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.399Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.414Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.415Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.415Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.415Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.415Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.415Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.415Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.435Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.436Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.436Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.437Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.437Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.437Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.437Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.444Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.444Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.444Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.444Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.445Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.445Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.445Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.461Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.461Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.461Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.462Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.462Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.462Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.462Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.478Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.479Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.479Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.479Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.479Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.479Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.480Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.497Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.497Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.497Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.498Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.498Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.498Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.498Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.511Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.511Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.511Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.511Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.512Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.512Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.512Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.528Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.528Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.528Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.528Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.529Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.529Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.529Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.552Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.553Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.553Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.553Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.553Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.553Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.553Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.566Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.567Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.567Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.567Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.567Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.567Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.567Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.577Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.577Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.578Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.578Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.578Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.578Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.579Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.597Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.597Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.597Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.597Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.598Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.598Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.598Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.611Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.612Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.612Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.614Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.614Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.614Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.614Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.631Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.631Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.631Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.631Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.632Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.632Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.632Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.645Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.645Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.645Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.645Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.645Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.645Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.646Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.668Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.668Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.668Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.668Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.669Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.669Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.669Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.677Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.677Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.677Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.677Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.678Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.678Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.678Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.694Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.695Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.695Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.695Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.695Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.695Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.695Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.711Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.712Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.712Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.712Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.712Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.713Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.713Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.730Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.731Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.731Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.731Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.731Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.731Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.731Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.745Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.745Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.747Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.747Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.747Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.748Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.748Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.761Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.761Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.761Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.761Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.761Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.761Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.762Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.785Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.786Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.786Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.786Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.786Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.786Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.786Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.795Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.796Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.796Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.796Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.796Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.796Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.796Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.810Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.811Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.811Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.811Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.812Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.812Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.812Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.830Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.830Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.830Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.830Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.830Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.831Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.831Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.844Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.845Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.845Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.845Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.847Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.847Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.847Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.860Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.861Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.861Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.861Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.861Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.862Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.862Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.880Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.880Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.881Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.881Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.881Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.881Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.881Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.894Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.894Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.894Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.895Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.895Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.895Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.895Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.918Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.918Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.918Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.918Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.921Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.921Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.921Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.928Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.928Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.928Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.928Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.928Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.928Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.929Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.944Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.944Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.945Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.945Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.945Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.945Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.945Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.961Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.962Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.962Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.962Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.962Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.962Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.963Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:01.979Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.979Z - normal: Simulator: STACK:
+2018-03-26T05:56:01.979Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:01.979Z - normal: Simulator: anonymous
+2018-03-26T05:56:01.979Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:01.979Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:01.980Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.002Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.002Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.002Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.002Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.003Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.003Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.003Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.010Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.011Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.011Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.011Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.011Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.012Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.012Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.035Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.036Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.036Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.036Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.036Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.036Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.036Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.046Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.046Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.046Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.047Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.047Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.047Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.047Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.062Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.063Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.063Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.063Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.063Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.063Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.064Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.078Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.079Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.079Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.079Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.079Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.079Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.079Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.098Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.098Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.099Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.099Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.099Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.099Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.099Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.111Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.112Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.112Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.112Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.112Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.112Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.112Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.128Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.128Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.128Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.128Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.129Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.129Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.129Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.144Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.145Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.145Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.145Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.145Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.146Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.146Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.168Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.168Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.168Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.168Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.168Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.169Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.169Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.177Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.178Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.178Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.178Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.178Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.178Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.179Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.210Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.211Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.211Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.211Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.211Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.211Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.211Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.211Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.212Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.212Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.212Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.212Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.212Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.212Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.237Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.237Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.237Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.237Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.237Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.238Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.238Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.244Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.244Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.244Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.245Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.245Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.245Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.245Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.261Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.261Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.261Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.261Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.262Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.262Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.262Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.286Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.286Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.286Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.287Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.287Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.287Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.287Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.295Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.295Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.295Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.296Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.296Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.296Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.296Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.310Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.311Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.311Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.311Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.311Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.311Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.311Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.328Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.328Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.328Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.328Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.328Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.329Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.329Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.343Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.343Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.344Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.344Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.344Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.344Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.344Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.361Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.361Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.362Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.362Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.362Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.362Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.362Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.378Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.378Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.378Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.378Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.378Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.379Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.379Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.393Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.393Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.394Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.394Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.394Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.394Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.394Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.420Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.420Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.421Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.421Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.421Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.422Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.422Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.427Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.427Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.427Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.427Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.428Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.428Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.428Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.455Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.455Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.455Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.455Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.455Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.456Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.456Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.460Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.461Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.461Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.461Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.461Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.461Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.462Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.479Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.479Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.479Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.479Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.479Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.479Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.479Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.494Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.495Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.495Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.495Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.495Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.496Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.496Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.511Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.512Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.512Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.512Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.512Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.512Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.512Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.536Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.536Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.536Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.536Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.537Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.537Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.537Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.544Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.545Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.545Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.545Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.545Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.545Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.545Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.560Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.561Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.561Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.561Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.561Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.561Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.561Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.577Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.577Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.577Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.577Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.577Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.577Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.577Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.594Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.594Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.594Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.594Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.595Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.595Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.595Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.610Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.610Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.611Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.611Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.611Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.611Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.611Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.627Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.627Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.628Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.628Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.628Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.628Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.628Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.653Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.653Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.653Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.653Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.653Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.653Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.653Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.668Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.668Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.668Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.668Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.668Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.669Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.669Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.678Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.678Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.678Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.678Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.678Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.679Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.679Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.694Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.695Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.695Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.695Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.695Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.695Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.695Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.713Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.713Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.713Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.713Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.714Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.714Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.714Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.727Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.727Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.728Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.728Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.728Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.728Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.729Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.744Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.744Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.745Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.745Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.745Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.745Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.745Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.770Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.771Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.771Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.771Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.771Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.771Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.771Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.778Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.778Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.779Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.779Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.779Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.779Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.779Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.795Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.795Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.795Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.795Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.795Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.795Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.795Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.810Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.811Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.811Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.811Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.811Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.811Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.811Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.828Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.828Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.828Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.829Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.829Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.829Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.829Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.844Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.844Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.844Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.844Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.844Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.845Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.845Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.860Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.860Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.861Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.861Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.861Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.861Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.861Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.878Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.878Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.878Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.879Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.879Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.879Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.879Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.905Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.905Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.905Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.905Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.905Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.905Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.905Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.910Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.911Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.911Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.911Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.911Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.911Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.911Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.926Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.927Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.927Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.927Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.927Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.927Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.927Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:02.943Z - normal: Simulator: ERROR: TypeError: this.audioManager.playBgmMusic is not a function. (In 'this.audioManager.playBgmMusic()', 'this.audioManager.playBgmMusic' is undefined), location: assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.943Z - normal: Simulator: STACK:
+2018-03-26T05:56:02.943Z - normal: Simulator: start@assets/scripts/Game.js:330:39
+2018-03-26T05:56:02.943Z - normal: Simulator: anonymous
+2018-03-26T05:56:02.944Z - normal: Simulator: invoke@src/jsb_polyfill.js:4611:23
+2018-03-26T05:56:02.944Z - normal: Simulator: startPhase@src/jsb_polyfill.js:4751:35
+2018-03-26T05:56:02.945Z - normal: Simulator: callback@src/jsb_polyfill.js:25558:48
+2018-03-26T05:56:03.023Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-03-26T05:56:03.024Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 91
+2018-03-26T05:56:03.027Z - normal: Simulator: GC end ..., (Native -> JS map) count: 70
+2018-03-26T05:56:03.027Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 70
+2018-03-26T05:56:03.031Z - normal: Simulator: GC end ..., (Native -> JS map) count: 70
+2018-03-26T05:56:03.031Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 70
+2018-03-26T05:56:03.043Z - normal: Simulator: GC end ..., (Native -> JS map) count: 70
+2018-03-26T05:56:03.044Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-03-26T05:56:03.044Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-03-26T05:56:03.044Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-03-26T05:56:03.044Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-03-26T05:56:07.309Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-03-26T05:56:08.345Z - normal: Simulator: WORKAREA WIDTH 2048.00, HEIGHT 1038.00
+2018-03-26T05:56:08.346Z - normal: Simulator: FRAME SCALE = 1.00
+2018-03-26T05:56:08.352Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-03-26T05:56:08.416Z - normal: Simulator: 
+2018-03-26T05:56:08.416Z - normal: Simulator: {
+2018-03-26T05:56:08.416Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-03-26T05:56:08.416Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-03-26T05:56:08.416Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.renderer: AMD Radeon Pro 570 OpenGL Engine
+2018-03-26T05:56:08.417Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-03-26T05:56:08.417Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-03-26T05:56:08.417Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-03-26T05:56:08.418Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-03-26T05:56:08.418Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-03-26T05:56:08.418Z - normal: Simulator: 	gl.version: 2.1 ATI-1.60.26
+2018-03-26T05:56:08.418Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-03-26T05:56:08.418Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-03-26T05:56:08.418Z - normal: Simulator: }
+2018-03-26T05:56:08.418Z - normal: Simulator: 
+2018-03-26T05:56:08.418Z - normal: Simulator: 
+2018-03-26T05:56:08.418Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-03-26T05:56:08.444Z - normal: Simulator: Project Config:
+2018-03-26T05:56:08.444Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-03-26T05:56:08.444Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-03-26T05:56:08.445Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-03-26T05:56:08.445Z - normal: Simulator:     frame size: 1280 x 720
+2018-03-26T05:56:08.445Z - normal: Simulator:     frame scale: 1.00
+2018-03-26T05:56:08.445Z - normal: Simulator:     show console: NO
+2018-03-26T05:56:08.445Z - normal: Simulator:     write debug log: NO ()
+2018-03-26T05:56:08.446Z - normal: Simulator:     listen: 
+2018-03-26T05:56:08.446Z - normal: Simulator:     debugger: none
+2018-03-26T05:56:08.446Z - normal: Simulator:     add searching path:
+2018-03-26T05:56:08.446Z - normal: Simulator: ------------------------------------------------
+2018-03-26T05:56:08.446Z - normal: Simulator: LOAD Js FILE: main.js
+2018-03-26T05:56:08.446Z - normal: Simulator: ------------------------------------------------
+2018-03-26T05:56:08.446Z - normal: Simulator: Initializing JavaScriptCore 
+2018-03-26T05:56:08.495Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-03-26T05:56:08.639Z - normal: Simulator: iShow!
+2018-03-26T05:56:08.785Z - normal: Simulator: JS: InitScene: 0.75ms
+2018-03-26T05:56:08.785Z - normal: Simulator: JS: AutoRelease: 0.1150000000000091ms
+2018-03-26T05:56:08.785Z - normal: Simulator: JS: Destroy: 0.049000000000035016ms
+2018-03-26T05:56:08.786Z - normal: Simulator: JS: AttachPersist: 0.002999999999985903ms
+2018-03-26T05:56:08.787Z - normal: Simulator: JS: ScaleX != ScaleY. Don't know which one to return
+2018-03-26T05:56:08.796Z - normal: Simulator: JS: Activate: 4.192000000000007ms
+2018-03-26T05:56:09.516Z - normal: Simulator: JS: LoadScene 15f89968-16be-4c4b-aacc-32982cf93805: 31.739000000000033ms
+2018-03-26T05:56:09.517Z - normal: Simulator: JS: InitScene: 1.2919999999999163ms
+2018-03-26T05:56:09.517Z - normal: Simulator: JS: AutoRelease: 0.016999999999825377ms
+2018-03-26T05:56:09.520Z - normal: Simulator: JS: Destroy: 3.25ms
+2018-03-26T05:56:09.521Z - normal: Simulator: JS: AttachPersist: 0.0019999999999527063ms
+2018-03-26T05:56:09.741Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-03-26T05:56:09.741Z - normal: Simulator: JS: Activate: 220.05700000000002ms
+2018-03-26T05:56:18.726Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 12480, total read frames: 12480, adjust frames: 0, remainingFrames: 0
+2018-03-26T05:56:18.726Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 5184, total read frames: 5184, adjust frames: 0, remainingFrames: 0
+2018-03-26T05:56:18.726Z - normal: Simulator: V/AudioCache (311): pcm buffer was loaded successfully, total frames: 18808, total read frames: 18808, adjust frames: 0, remainingFrames: 0
+2018-03-26T05:56:18.726Z - normal: Simulator: JS: LoadScene 15f89968-16be-4c4b-aacc-32982cf93805: 2.8190000000013242ms
+2018-03-26T05:56:18.727Z - normal: Simulator: JS: InitScene: 1.3350000000009459ms
+2018-03-26T05:56:18.727Z - normal: Simulator: JS: AutoRelease: 0.01599999999962165ms
+2018-03-26T05:56:18.748Z - normal: Simulator: JS: Destroy: 18.472999999999956ms
+2018-03-26T05:56:18.748Z - normal: Simulator: JS: AttachPersist: 0.0019999999985884642ms
+2018-03-26T05:56:18.803Z - normal: Simulator: JS: Activate: 57.720000000001164ms
+2018-03-26T05:56:20.315Z - normal: Simulator: V/AudioPlayer (315): Exit rotate buffer thread ...
+2018-03-26T05:56:20.315Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-03-26T05:56:20.315Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 1503
+2018-03-26T05:56:20.322Z - normal: Simulator: GC end ..., (Native -> JS map) count: 758
+2018-03-26T05:56:20.323Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 758
+2018-03-26T05:56:20.333Z - normal: Simulator: GC end ..., (Native -> JS map) count: 758
+2018-03-26T05:56:20.333Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 758
+2018-03-26T05:56:20.333Z - normal: Simulator: GC end ..., (Native -> JS map) count: 758
+2018-03-26T05:56:20.371Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-03-26T05:56:20.371Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-03-26T05:56:20.382Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-03-26T05:56:20.394Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-03-26T05:57:05.014Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-03-26T06:01:01.963Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-03-26T06:01:05.935Z - info: shutdown preview server

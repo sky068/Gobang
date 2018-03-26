@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ChessBoard",
+    "texture": "c78a5e5f-e436-4da4-8891-30a81d2ca638",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      535,
+      535
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      535,
+      535
+    ]
+  }
+}

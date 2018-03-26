@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhishi",
+    "texture": "5666bccb-bfdc-409a-a0e6-9ad03bc6fc5d",
+    "atlas": "",
+    "rect": [
+      16,
+      16,
+      104,
+      104
+    ],
+    "offset": [
+      4,
+      -4
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}
